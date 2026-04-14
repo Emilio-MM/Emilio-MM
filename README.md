@@ -1,7 +1,5 @@
-
-
 ## Hi there 👋
-
+![Membrana radial](simulacion-ondas-python/Propagación-Membrana/demo-simulacion-membrana.gif)
 <!--
 **Emilio-MM/Emilio-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
