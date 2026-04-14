@@ -14,7 +14,7 @@
 * Análisis de Flujo Vehicular en Glorietas mediante Redes Neuronales
 
 | :---: | :---: | 
-| <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/Video-Salida-1.gif" width="300" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/Video-Salida-2.gif" width="300" /> |
+| <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/Video-Salida-1.gif" width="300" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/Video-Salida-2.gif" width="300" /> |
 <br>
 <!--
 **Emilio-MM/Emilio-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
