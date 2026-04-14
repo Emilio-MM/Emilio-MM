@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-membrana.gif" width="400" />
+<img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-membrana.gif" width="200" />
 
 <!--
 **Emilio-MM/Emilio-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
