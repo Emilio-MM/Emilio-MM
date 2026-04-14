@@ -1,4 +1,7 @@
-## Hi there 👋
+### Proyectos Destacados
+
+#### Simulador Físico de Masas y Resortes
+
 <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-membrana.gif" width="200" />
 
 <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagacion-Cubo/demo-simulacion-cubo-gravedad.gif" width="200" />
