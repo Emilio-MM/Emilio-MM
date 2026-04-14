@@ -4,8 +4,7 @@
 * Especialidades: Aceleración por GPU, Dinámica de Sistemas.
   
 ## PROYECTOS DESTACADOS
-
-### * Simulador Físico de Masas y Resortes
+* Simulador Físico de Masas y Resortes
 
 | Membrana | Cubo | Cuerda |
 | :---: | :---: | :---: |
