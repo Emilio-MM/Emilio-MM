@@ -1,6 +1,6 @@
 ## HERRAMIENTAS
 * Lenguajes: Python (NumPy, CuPy, OpenCV), C/C++, Ensamblador (PIC).
-* Software y Datos: LabVIEW, bases de datos SQL (MariaDB), Blender.
+* Software y Datos: LabVIEW, bases de datos SQL, Blender.
 * Especialidades: Aceleración por GPU, Dinámica de Sistemas.
   
 ## PROYECTOS DESTACADOS
