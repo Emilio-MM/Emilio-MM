@@ -15,7 +15,17 @@
 
 | Glorieta 1 | Glorieta 2 |
 | :---: | :---: | 
-| <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/Video-Salida-1.gif" width="300" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/Video-Salida-2.gif" width="300" /> |
+<table align="center">
+  <tr>
+    <th align="center">Glorieta 1</th>
+    <th align="center">Glorieta 2</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/Video-Salida-1.gif" width="300" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/Video-Salida-2.gif" width="300" /></td>
+  </tr>
+</table>
+<br>
 <br>
 
 * Buscador de rutas en SLP con Algoritmo Dijkstra
