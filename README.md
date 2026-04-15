@@ -22,7 +22,7 @@
 Implementación en C desde cero del algoritmo de Dijkstra para encontrar el camino más corto entre dos calles de San Luis Potosí. 
 
 <div align="center">
-| <img src="https://raw.githubusercontent.com/Emilio-MM/Buscador-rutas-dijkstra/main/Ejemplo-Ruta1-SLP.png" width="300" /> | 
+| <img src="https://raw.githubusercontent.com/Emilio-MM/Buscador-rutas-dijkstra/main/Ejemplo-Ruta1-SLP.png" width="300" /> | | <img src="https://raw.githubusercontent.com/Emilio-MM/Buscador-rutas-dijkstra/main/Ejemplo-Ruta2-SLP.png" width="300" /> | 
 </div>
 
 <!--
