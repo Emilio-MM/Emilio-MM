@@ -17,6 +17,14 @@
 | :---: | :---: | 
 | <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/Video-Salida-1.gif" width="300" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/Video-Salida-2.gif" width="300" /> |
 <br>
+
+* Buscador de rutas en SLP con Algoritmo Dijkstra
+Implementación en C desde cero del algoritmo de Dijkstra para encontrar el camino más corto entre dos calles de San Luis Potosí. 
+
+<div align="center">
+| <img src="https://raw.githubusercontent.com/Emilio-MM/Buscador-rutas-dijkstra/main/Ejemplo-Ruta1-SLP.png" width="300" /> | 
+</div>
+
 <!--
 **Emilio-MM/Emilio-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
