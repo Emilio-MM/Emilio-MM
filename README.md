@@ -13,8 +13,6 @@
 
 * Análisis de Flujo Vehicular en Glorietas mediante Redes Neuronales
 
-| Glorieta 1 | Glorieta 2 |
-| :---: | :---: | 
 <table align="center">
   <tr>
     <th align="center">Glorieta 1</th>
