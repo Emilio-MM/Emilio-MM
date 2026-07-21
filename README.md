@@ -20,7 +20,7 @@
     </td>
   </tr>
 </table>
-<br><br><br>
+<br><br>
 
 * From-scratch implementation of Dijkstra's algorithm to find the shortest path between two streets in San Luis Potosí. 
 
