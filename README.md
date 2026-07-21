@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/Video-Procesado.gif" width="600" alt="Video 1" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/SUMO-Simulacion.gif" width="600" alt="Video 2" />
+  <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/SUMO-Simulacion.gif" width="300" alt="Video 2" />
 </div>
 
 * From-scratch implementation of Dijkstra's algorithm to find the shortest path between two streets in San Luis Potosí. 
