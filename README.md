@@ -19,8 +19,8 @@
     <th align="center">Roundabout 2</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/data/Video-Procesado.gif" width="300" /></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/data/Video-Procesado.gif" width="300" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/Video-Procesado.gif" width="300" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/Video-Procesado.gif" width="300" /></td>
   </tr>
 </table>
 <br>
