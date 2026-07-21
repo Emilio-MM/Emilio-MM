@@ -17,6 +17,7 @@
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/Video-Procesado.gif"  width="700" alt="Demostración del Tracking de Vehículos" />
+      <br><br><br>
     </td>
   </tr>
 </table>
