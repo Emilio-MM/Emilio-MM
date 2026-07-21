@@ -4,14 +4,14 @@
 * Specialties: GPU Acceleration, System Dynamics.
   
 ## FEATURED PROJECTS
-** Mass-Spring Physics Simulator
+* Mass-Spring Physics Simulator
 
 | Membrane | Cube | String |
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-membrana.gif" width="200" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagacion-Cubo/demo-simulacion-cubo-gravedad.gif" width="270" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-lamina.gif" width="270" /> |
 <br>
 
-** Roundabout Traffic Flow Analysis using Neural Networks
+* Roundabout Traffic Flow Analysis using Neural Networks
 
 <table align="center">
   <tr>
@@ -22,18 +22,18 @@
 </table>
 <br>
 
-** Roundabout Traffic Flow Analysis using Neural Networks
+* LabVIEW AI-Powered Smart Parking System & Virtual Kiosk
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Emilio-MM/Interfaz-Estacionamiento-Inteligente-Labview/main/images/Picture1.jpg"  width="600" alt="Estacionamiento en LABVIEW" />
+      <img src="https://raw.githubusercontent.com/Emilio-MM/Interfaz-Estacionamiento-Inteligente-Labview/main/images/Picture2.jpg"  width="600" alt="Estacionamiento en LABVIEW" />
     </td>
   </tr>
 </table>
 <br>
 
-** From-scratch implementation of Dijkstra's algorithm to find the shortest path between two streets in San Luis Potosí. 
+* From-scratch implementation of Dijkstra's algorithm to find the shortest path between two streets in San Luis Potosí. 
 
 <div align="center">
 | <img src="https://raw.githubusercontent.com/Emilio-MM/Buscador-rutas-dijkstra/main/Ejemplo-Ruta1-SLP.png" width="300" /> | | <img src="https://raw.githubusercontent.com/Emilio-MM/Buscador-rutas-dijkstra/main/Ejemplo-Ruta2-SLP.png" width="300" /> | 
