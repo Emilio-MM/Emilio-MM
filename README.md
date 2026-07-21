@@ -13,14 +13,11 @@
 
 * Roundabout Traffic Flow Analysis using Neural Networks
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/Video-Procesado.gif" width="700" />
-  </tr>
-</table>
-<br>
-<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/Video-Procesado.gif" width="850" alt="Video 1" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/SUMO-Simulacion.gif" width="850" alt="Video 2" />
+</div>
 
 * From-scratch implementation of Dijkstra's algorithm to find the shortest path between two streets in San Luis Potosí. 
 
