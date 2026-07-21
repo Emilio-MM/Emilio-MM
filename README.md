@@ -17,11 +17,6 @@
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/Video-Procesado.gif" width="700" />
-    </td>
-    <td width="40"></td> 
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Emilio-MM/Flujo-Vehicular-Glorieta/main/data/SUMO-Simulacion.gif" width="600" />
-    </td>
   </tr>
 </table>
 <br>
