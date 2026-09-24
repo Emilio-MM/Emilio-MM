@@ -12,7 +12,6 @@
 
 Computer vision system developed to analyze 24 hours of real traffic footage from a roundabout in San Luis Potosí. Detects, classifies and tracks vehicles to extract lane flow, travel times, trajectories and congestion patterns.
 
-**Tech:** Python · YOLO · OpenCV
 
 [View project poster →](https://github.com/Emilio-MM/Flujo-Vehicular-Glorieta/blob/main/docs/Poster-Glorieta.jpg)
 
@@ -30,7 +29,6 @@ Computer vision system developed to analyze 24 hours of real traffic footage fro
 
 GPU-accelerated simulation of deformable structures modeled as mass-spring systems using Hooke's law. Supports simulations of up to ~200,000 masses and includes CPU/GPU performance comparisons.
 
-**Tech:** Python · CuPy · NumPy · VisPy
 
 | Membrane | Cube | String |
 | :---: | :---: | :---: |
@@ -42,7 +40,6 @@ GPU-accelerated simulation of deformable structures modeled as mass-spring syste
 
 Prototype integrating computer vision, LabVIEW and a Flask web application to detect available parking spaces and provide updated availability through QR access.
 
-**Tech:** LabVIEW · Python · YOLO · Flask
 
 <table align="center">
   <tr>
@@ -58,7 +55,6 @@ Prototype integrating computer vision, LabVIEW and a Flask web application to de
 
 Route-finding program implemented from scratch in C over an urban graph of approximately 60,000 nodes. Uses Dijkstra's algorithm and hash tables to locate streets and calculate the shortest route between two points in San Luis Potosí.
 
-**Tech:** C · Graph Algorithms · Hash Tables
 
 <table align="center">
   <tr>
