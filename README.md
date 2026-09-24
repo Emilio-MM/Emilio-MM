@@ -13,7 +13,8 @@ GPU-accelerated physical simulation of deformable structures using mass-spring s
 | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-membrana.gif" width="200" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagacion-Cubo/demo-simulacion-cubo-gravedad.gif" width="270" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-lamina.gif" width="270" /> |
 <br>
 
-* Roundabout Traffic Flow Analysis using Neural Networks
+* Roundabout Traffic Flow Analysis using Neural Networks.
+Computer vision system developed to analyze 24 hours of real traffic footage from a roundabout in San Luis Potosí. Detects, classifies and tracks vehicles to extract traffic flow, trajectories and congestion metrics.
 
 <table align="center">
   <tr>
@@ -24,7 +25,8 @@ GPU-accelerated physical simulation of deformable structures using mass-spring s
 </table>
 <br>
 
-* LabVIEW AI-Powered Smart Parking System & Virtual Kiosk
+* LabVIEW AI-Powered Smart Parking System & Virtual Kiosk.
+Prototype integrating YOLO, Python, LabVIEW and Flask to detect available parking spaces and provide users with availability information through a QR-accessible web interface.
 
 <table align="center">
   <tr>
