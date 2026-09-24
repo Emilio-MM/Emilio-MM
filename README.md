@@ -5,13 +5,7 @@
 * Focus: Computer Vision, Scientific Computing, GPU Acceleration, Numerical Simulation
   
 ## FEATURED PROJECTS
-* Mass-Spring Physics Simulator
-GPU-accelerated physical simulation of deformable structures using mass-spring systems and Hooke's law. Supports simulations of up to ~200,000 masses using CuPy.
 
-| Membrane | Cube | String |
-| :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-membrana.gif" width="200" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagacion-Cubo/demo-simulacion-cubo-gravedad.gif" width="270" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-lamina.gif" width="270" /> |
-<br>
 
 * Roundabout Traffic Flow Analysis using Neural Networks.
 Computer vision system developed to analyze 24 hours of real traffic footage from a roundabout in San Luis Potosí. Detects, classifies and tracks vehicles to extract traffic flow, trajectories and congestion metrics.
@@ -24,6 +18,18 @@ Computer vision system developed to analyze 24 hours of real traffic footage fro
   </tr>
 </table>
 <br>
+
+
+
+* Mass-Spring Physics Simulator
+GPU-accelerated physical simulation of deformable structures using mass-spring systems and Hooke's law. Supports simulations of up to ~200,000 masses using CuPy.
+
+| Membrane | Cube | String |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-membrana.gif" width="200" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagacion-Cubo/demo-simulacion-cubo-gravedad.gif" width="270" /> | <img src="https://raw.githubusercontent.com/Emilio-MM/simulacion-ondas-python/main/Propagaci%C3%B3n-Membrana/demo-simulacion-lamina.gif" width="270" /> |
+<br>
+
+
 
 * LabVIEW AI-Powered Smart Parking System & Virtual Kiosk.
 Prototype integrating YOLO, Python, LabVIEW and Flask to detect available parking spaces and provide users with availability information through a QR-accessible web interface.
