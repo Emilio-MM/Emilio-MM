@@ -8,7 +8,7 @@
 
 # FEATURED PROJECTS
 
-### [Roundabout Traffic Flow Analysis](https://github.com/Emilio-MM/Flujo-Vehicular-Glorieta) [View project poster →](https://github.com/Emilio-MM/Flujo-Vehicular-Glorieta/blob/main/docs/Poster-Glorieta.jpg)
+### [Roundabout Traffic Flow Analysis](https://github.com/Emilio-MM/Flujo-Vehicular-Glorieta) • [View project poster](https://github.com/Emilio-MM/Flujo-Vehicular-Glorieta/blob/main/docs/Poster-Glorieta.jpg)
 
 Computer vision system developed to analyze 24 hours of real traffic footage from a roundabout in San Luis Potosí. Detects, classifies and tracks vehicles to extract lane flow, travel times, trajectories and congestion patterns.
 
