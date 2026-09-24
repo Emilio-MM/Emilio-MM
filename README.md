@@ -1,5 +1,5 @@
 ## TOOLS
-* Languages: Python (NumPy, CuPy, OpenCV), C/C++, Assembly (PIC).
+* Languages: Python (NumPy, CuPy, OpenCV), C.
 * Software & Data: LabVIEW, SQL databases, Blender.
 * Specialties: GPU Acceleration, System Dynamics.
   
