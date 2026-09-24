@@ -22,8 +22,8 @@ to extract traffic flow, trajectories and congestion metrics.
 <br>
 
 
+### [Mass-Spring Physics Simulator](https://github.com/Emilio-MM/Simulacion-Ondas-Python)
 
-* Mass-Spring Physics Simulator
 GPU-accelerated physical simulation of deformable structures using mass-spring systems and Hooke's law. Supports simulations of up to ~200,000 masses using CuPy.
 
 | Membrane | Cube | String |
