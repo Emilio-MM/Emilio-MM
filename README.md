@@ -6,6 +6,7 @@
   
 ## FEATURED PROJECTS
 * Mass-Spring Physics Simulator
+GPU-accelerated physical simulation of deformable structures using mass-spring systems and Hooke's law. Supports simulations of up to ~200,000 masses using CuPy.
 
 | Membrane | Cube | String |
 | :---: | :---: | :---: |
