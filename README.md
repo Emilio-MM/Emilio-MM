@@ -45,7 +45,9 @@ Prototype integrating YOLO, Python, LabVIEW and Flask to detect available parkin
 </table>
 <br>
 
-* From-scratch implementation of Dijkstra's algorithm to find the shortest path between two streets in San Luis Potosí. 
+
+
+### [From-scratch implementation of Dijkstra's algorithm to find the shortest path between two streets in San Luis Potosí](https://github.com/Emilio-MM/Buscador-Rutas-Dijkstra)
 
 <div align="center">
 | <img src="https://raw.githubusercontent.com/Emilio-MM/Buscador-rutas-dijkstra/main/Ejemplo-Ruta1-SLP.png" width="300" /> | | <img src="https://raw.githubusercontent.com/Emilio-MM/Buscador-rutas-dijkstra/main/Ejemplo-Ruta2-SLP.png" width="300" /> | 
