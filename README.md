@@ -1,5 +1,5 @@
 ## TOOLS
-Python: NumPy, CuPy, OpenCV, Ultralytics YOLO, Flask, VisPy, Matplotlib
+Python: NumPy, CuPy, OpenCV, Ultralytics YOLO, Flask, VisPy, Matplotlib.
 Languages: Python, C
 Engineering: LabVIEW, Mathematica, LTspice, Blender
 Focus: Computer Vision, Scientific Computing, GPU Acceleration, Numerical Simulation
