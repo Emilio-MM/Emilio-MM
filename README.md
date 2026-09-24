@@ -32,8 +32,8 @@ GPU-accelerated physical simulation of deformable structures using mass-spring s
 <br>
 
 
+### [LabVIEW AI-Powered Smart Parking System & Virtual Kiosk](https://github.com/Emilio-MM/Interfaz-Estacionamiento-Inteligente-LabVIEW)
 
-* LabVIEW AI-Powered Smart Parking System & Virtual Kiosk.
 Prototype integrating YOLO, Python, LabVIEW and Flask to detect available parking spaces and provide users with availability information through a QR-accessible web interface.
 
 <table align="center">
