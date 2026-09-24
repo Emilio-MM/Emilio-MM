@@ -1,4 +1,4 @@
-## TOOLS
+# TOOLS
 
 - **Languages:** Python, C
 - **Python:** NumPy, CuPy, OpenCV, Ultralytics YOLO, Flask, VisPy, Matplotlib
@@ -6,7 +6,7 @@
 - **Focus:** Computer Vision, Scientific Computing, GPU Acceleration, Numerical Simulation
 
 
-## FEATURED PROJECTS
+# FEATURED PROJECTS
 
 ### [Roundabout Traffic Flow Analysis](https://github.com/Emilio-MM/Flujo-Vehicular-Glorieta)
 
